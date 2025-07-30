@@ -98,14 +98,6 @@
             <span class="tech-name">Kotlin</span>
           </div>
           <div class="tech-item">
-            <div class="tech-icon">🤖</div>
-            <span class="tech-name">Kotlin</span>
-          </div>
-          <div class="tech-item">
-            <div class="tech-icon">⚡</div>
-            <span class="tech-name">TypeScript</span>
-          </div>
-          <div class="tech-item">
             <div class="tech-icon">🔥</div>
             <span class="tech-name">Firebase</span>
           </div>
