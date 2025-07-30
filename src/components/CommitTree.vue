@@ -32,12 +32,6 @@
             <div class="flex justify-between items-center">
               <span class="text-gray-300">Kotlin</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
-                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 85%"></div>
-              </div>
-            </div>
-            <div class="flex justify-between items-center">
-              <span class="text-gray-300">Kotlin</span>
-              <div class="w-24 bg-gray-700 rounded-full h-2">
                 <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 80%"></div>
               </div>
             </div>
@@ -50,30 +44,28 @@
             🔧 Backend & APIs
           </h3>
           <div class="space-y-4">
-            <div class="flex justify-between items-center">
-              <span class="text-gray-300">Node.js</span>
-              <div class="w-24 bg-gray-700 rounded-full h-2">
-                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 88%"></div>
-              </div>
-            </div>
-            <div class="flex justify-between items-center">
-              <span class="text-gray-300">Firebase</span>
-              <div class="w-24 bg-gray-700 rounded-full h-2">
-                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 92%"></div>
-              </div>
-            </div>
+        
             <div class="flex justify-between items-center">
               <span class="text-gray-300">REST APIs</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
                 <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 90%"></div>
               </div>
             </div>
+             
             <div class="flex justify-between items-center">
-              <span class="text-gray-300">GraphQL</span>
+              <span class="text-gray-300">Firebase</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
-                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 75%"></div>
+                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 92%"></div>
               </div>
             </div>
+             
+            <div class="flex justify-between items-center">
+              <span class="text-gray-300">Supabase</span>
+              <div class="w-24 bg-gray-700 rounded-full h-2">
+                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 92%"></div>
+              </div>
+            </div>
+          
           </div>
         </div>
 
@@ -87,18 +79,6 @@
               <span class="text-gray-300">Git</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
                 <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 95%"></div>
-              </div>
-            </div>
-            <div class="flex justify-between items-center">
-              <span class="text-gray-300">Docker</span>
-              <div class="w-24 bg-gray-700 rounded-full h-2">
-                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 80%"></div>
-              </div>
-            </div>
-            <div class="flex justify-between items-center">
-              <span class="text-gray-300">CI/CD</span>
-              <div class="w-24 bg-gray-700 rounded-full h-2">
-                <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 85%"></div>
               </div>
             </div>
             <div class="flex justify-between items-center">
@@ -150,13 +130,13 @@
           </h3>
           <div class="space-y-4">
             <div class="flex justify-between items-center">
-              <span class="text-gray-300">Jest</span>
+              <span class="text-gray-300">TDD</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
                 <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 88%"></div>
               </div>
             </div>
             <div class="flex justify-between items-center">
-              <span class="text-gray-300">Detox</span>
+              <span class="text-gray-300">Teste Integração</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
                 <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 85%"></div>
               </div>
@@ -168,7 +148,7 @@
               </div>
             </div>
             <div class="flex justify-between items-center">
-              <span class="text-gray-300">E2E Testing</span>
+              <span class="text-gray-300">Test de Widget</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
                 <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 80%"></div>
               </div>

@@ -37,7 +37,7 @@
                 </div>
                 <div class="contact-item-content">
                   <h4 class="contact-item-title">Email</h4>
-                  <p class="contact-item-value">luciel.castro@email.com</p>
+                  <p class="contact-item-value">lucielcastro.dev@gmail.com</p>
                 </div>
               </div>
 

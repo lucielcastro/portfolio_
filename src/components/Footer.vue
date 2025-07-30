@@ -59,7 +59,6 @@
             <li><a href="#" class="footer-link">React Native</a></li>
             <li><a href="#" class="footer-link">Flutter</a></li>
             <li><a href="#" class="footer-link">Kotlin</a></li>
-            <li><a href="#" class="footer-link">Kotlin</a></li>
             <li><a href="#" class="footer-link">Firebase</a></li>
           </ul>
         </div>

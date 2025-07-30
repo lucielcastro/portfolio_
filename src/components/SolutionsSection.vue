@@ -57,7 +57,7 @@
         <div class="space-y-6">
           <div class="grid grid-cols-2 gap-4">
             <div class="group bg-gradient-to-br from-primary-blue/20 to-primary-cyan/20 p-6 rounded-xl text-center hover:scale-105 transition-all duration-300 hover:shadow-card-glow">
-              <div class="text-3xl font-bold text-primary-blue mb-2 group-hover:scale-110 transition-transform duration-300">5+</div>
+              <div class="text-3xl font-bold text-primary-blue mb-2 group-hover:scale-110 transition-transform duration-300">3+</div>
               <div class="text-gray-300">Anos de Experiência</div>
             </div>
             <div class="group bg-gradient-to-br from-primary-blue/20 to-primary-cyan/20 p-6 rounded-xl text-center hover:scale-105 transition-all duration-300 hover:shadow-card-glow">
