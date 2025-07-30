@@ -95,7 +95,7 @@
           </div>
           <div class="tech-item">
             <div class="tech-icon">🍎</div>
-            <span class="tech-name">Swift</span>
+            <span class="tech-name">Kotlin</span>
           </div>
           <div class="tech-item">
             <div class="tech-icon">🤖</div>

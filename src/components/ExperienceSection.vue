@@ -112,7 +112,7 @@
                 aprendendo boas práticas e fundamentos do desenvolvimento mobile.
               </p>
               <div class="experience-tech">
-                <span class="tech-tag">Swift</span>
+                <span class="tech-tag">Kotlin</span>
                 <span class="tech-tag">Kotlin</span>
                 <span class="tech-tag">REST APIs</span>
                 <span class="tech-tag">Git</span>

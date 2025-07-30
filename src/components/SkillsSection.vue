@@ -45,7 +45,7 @@
               </div>
             </div>
             <div class="skill-item">
-              <span class="skill-name">Swift</span>
+              <span class="skill-name">Kotlin</span>
               <div class="skill-bar">
                 <div class="skill-progress" style="width: 85%"></div>
               </div>

@@ -82,7 +82,7 @@
             <div class="flex flex-wrap gap-2">
               <span class="bg-primary-blue/20 text-primary-blue px-3 py-1 rounded-full text-sm hover:bg-primary-blue/30 transition-colors cursor-pointer">React Native</span>
               <span class="bg-primary-blue/20 text-primary-blue px-3 py-1 rounded-full text-sm hover:bg-primary-blue/30 transition-colors cursor-pointer">Flutter</span>
-              <span class="bg-primary-blue/20 text-primary-blue px-3 py-1 rounded-full text-sm hover:bg-primary-blue/30 transition-colors cursor-pointer">Swift</span>
+              <span class="bg-primary-blue/20 text-primary-blue px-3 py-1 rounded-full text-sm hover:bg-primary-blue/30 transition-colors cursor-pointer">Kotlin</span>
               <span class="bg-primary-blue/20 text-primary-blue px-3 py-1 rounded-full text-sm hover:bg-primary-blue/30 transition-colors cursor-pointer">Kotlin</span>
               <span class="bg-primary-blue/20 text-primary-blue px-3 py-1 rounded-full text-sm hover:bg-primary-blue/30 transition-colors cursor-pointer">TypeScript</span>
               <span class="bg-primary-blue/20 text-primary-blue px-3 py-1 rounded-full text-sm hover:bg-primary-blue/30 transition-colors cursor-pointer">Firebase</span>

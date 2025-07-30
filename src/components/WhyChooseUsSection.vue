@@ -116,7 +116,7 @@ export default {
           title: 'Banking App',
           description: 'Aplicativo bancário com autenticação biométrica, transferências e histórico de transações.',
           icon: '🏦',
-          technologies: ['Swift', 'Kotlin', 'Biometric Auth', 'Encryption'],
+          technologies: ['Kotlin', 'Kotlin', 'Biometric Auth', 'Encryption'],
           github: '#',
           demo: '#'
         },

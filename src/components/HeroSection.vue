@@ -50,7 +50,7 @@
         Criando experiências únicas e performáticas para iOS e Android com 
         <span class="text-primary-blue font-semibold">React Native</span>, 
         <span class="text-primary-blue font-semibold">Flutter</span> e 
-        <span class="text-primary-blue font-semibold">Swift</span>.
+        <span class="text-primary-blue font-semibold">Koltin</span>.
       </p>
     </div>
 
@@ -84,7 +84,7 @@
       </div>
       <div class="tech-item">
         <div class="tech-icon">🚀</div>
-        <span class="tech-name">Swift</span>
+        <span class="tech-name">Kotlin</span>
       </div>
     </div>
   </div>

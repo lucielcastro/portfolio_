@@ -78,7 +78,7 @@ export default {
           company: 'TechCorp Solutions',
           duration: '2022 - Presente',
           description: 'Liderando o desenvolvimento de aplicações mobile para clientes enterprise, focando em performance e escalabilidade.',
-          technologies: ['React Native', 'Flutter', 'Swift', 'Kotlin', 'Firebase'],
+          technologies: ['React Native', 'Flutter', 'Kotlin', 'Firebase'],
           achievements: [
             'Desenvolveu 5 aplicações mobile com mais de 100k downloads',
             'Reduziu o tempo de build em 40% implementando CI/CD',

@@ -30,7 +30,7 @@
               </div>
             </div>
             <div class="flex justify-between items-center">
-              <span class="text-gray-300">Swift</span>
+              <span class="text-gray-300">Kotlin</span>
               <div class="w-24 bg-gray-700 rounded-full h-2">
                 <div class="bg-gradient-to-r from-primary-blue to-primary-cyan h-2 rounded-full transition-all duration-500" style="width: 85%"></div>
               </div>

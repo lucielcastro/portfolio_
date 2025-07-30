@@ -93,7 +93,7 @@
             Rede social mobile com funcionalidades de chat, stories, posts e sistema de recomendações baseado em IA.
           </p>
           <div class="project-tech">
-            <span class="tech-tag">Swift</span>
+            <span class="tech-tag">Kotlin</span>
             <span class="tech-tag">Core Data</span>
             <span class="tech-tag">Socket.io</span>
           </div>
