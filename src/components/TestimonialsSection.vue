@@ -121,7 +121,7 @@ export default {
 
 <style scoped>
 /* Background Effects */
-.testimonials-particles {
+/* .testimonials-particles {
   position: absolute;
   top: 0;
   left: 0;
@@ -157,7 +157,7 @@ export default {
     linear-gradient(90deg, rgba(59, 130, 246, 0.03) 1px, transparent 1px);
   background-size: 50px 50px;
   animation: testimonialsGridPulse 10s ease-in-out infinite;
-}
+} */
 
 @keyframes testimonialsParticleFloat {
   0%, 100% { transform: translateY(0px) rotate(0deg); }

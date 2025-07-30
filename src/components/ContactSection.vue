@@ -132,7 +132,7 @@ export default {
 
 <style scoped>
 /* Background Effects */
-.contact-particles {
+/* .contact-particles {
   position: absolute;
   top: 0;
   left: 0;
@@ -155,7 +155,7 @@ export default {
     linear-gradient(90deg, transparent 0%, rgba(59, 130, 246, 0.1) 50%, transparent 100%),
     linear-gradient(180deg, transparent 0%, rgba(6, 182, 212, 0.1) 50%, transparent 100%);
   animation: contactEnergyFlow 15s linear infinite;
-}
+} */
 
 .contact-luxury-grid {
   position: absolute;

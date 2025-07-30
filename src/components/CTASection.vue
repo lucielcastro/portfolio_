@@ -87,7 +87,7 @@ export default {
 
 <style scoped>
 /* Background Effects */
-.cta-particles {
+/* .cta-particles {
   position: absolute;
   top: 0;
   left: 0;
@@ -123,7 +123,7 @@ export default {
     linear-gradient(90deg, rgba(59, 130, 246, 0.03) 1px, transparent 1px);
   background-size: 50px 50px;
   animation: ctaGridPulse 10s ease-in-out infinite;
-}
+} */
 
 @keyframes ctaParticleFloat {
   0%, 100% { transform: translateY(0px) rotate(0deg); }

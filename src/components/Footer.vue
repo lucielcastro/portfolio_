@@ -110,7 +110,7 @@ export default {
 
 <style scoped>
 /* Background Effects */
-.footer-particles {
+/* .footer-particles {
   position: absolute;
   top: 0;
   left: 0;
@@ -121,9 +121,9 @@ export default {
     radial-gradient(circle at 80% 20%, rgba(6, 182, 212, 0.1) 0%, transparent 50%),
     radial-gradient(circle at 40% 40%, rgba(59, 130, 246, 0.05) 0%, transparent 50%);
   animation: footerParticleFloat 20s ease-in-out infinite;
-}
+} */
 
-.footer-energy-lines {
+/* .footer-energy-lines {
   position: absolute;
   top: 0;
   left: 0;
@@ -133,7 +133,7 @@ export default {
     linear-gradient(90deg, transparent 0%, rgba(59, 130, 246, 0.1) 50%, transparent 100%),
     linear-gradient(180deg, transparent 0%, rgba(6, 182, 212, 0.1) 50%, transparent 100%);
   animation: footerEnergyFlow 15s linear infinite;
-}
+} */
 
 .footer-luxury-grid {
   position: absolute;

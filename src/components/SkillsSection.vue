@@ -181,7 +181,7 @@ export default {
 </script>
 
 <style scoped>
-/* Background Effects */
+/* Background Effects
 .skills-particles {
   position: absolute;
   top: 0;
@@ -205,7 +205,7 @@ export default {
     linear-gradient(90deg, transparent 0%, rgba(59, 130, 246, 0.1) 50%, transparent 100%),
     linear-gradient(180deg, transparent 0%, rgba(6, 182, 212, 0.1) 50%, transparent 100%);
   animation: skillsEnergyFlow 15s linear infinite;
-}
+} */
 
 .skills-luxury-grid {
   position: absolute;
